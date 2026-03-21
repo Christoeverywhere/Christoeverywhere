@@ -62,8 +62,6 @@
 
 ## ✦ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christoeverywhere&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444&hide_border=false" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christoeverywhere&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=444444&hide_border=false" height="165" />
 </p>
 
