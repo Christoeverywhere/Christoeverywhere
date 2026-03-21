@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Currently Working On
+## ✦ Currently Working On
 
 - Data analytics and real-world dataset projects
 - Python validation and structured test case workflows
@@ -23,33 +23,34 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ Tech Stack
+
+## ✦ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase" />
-  <img src="https://img.shields.io/badge/Linux%20Debian-111827?style=for-the-badge&logo=debian" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter" />
-  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor" />
-  <img src="https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Debian-black?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-black?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-black?style=for-the-badge&logoColor=white" />
 </p>
-
 ---
 
-## 📌 Featured Projects
+## ✦ Featured Projects
 
 - ⚙️ **RADIX Engine** — A workflow engine designed to automate end-to-end task pipelines, from raw data ingestion and wrangling to cleaning, processing, and structured output generation.
 
@@ -61,28 +62,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christoeverywhere&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Christeoverywhere&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christeoverywhere&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=444444&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Christoeverywhere&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Christeoverywhere&theme=dark&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border=444444" />
 </p>
-
 ---
 
-## 📈 Contribution Graph
+## ✦ Contribution Graph
 
-[![Christopher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christoeverywhere&theme=tokyo-night&hide_border=true)](https://github.com/Christoeverywhere)
+[![Christopher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christeoverywhere&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=false)](https://github.com/Christeoverywhere)
 ---
 
-## 🌐 Connect With Me
+## ✦ Connect With Me
 
-- 📧 Email: **christopherwilsonjust@gmail.com**
-- 💼 LinkedIn: **[Christopher Wilson](https://www.linkedin.com/in/christopher-wilson-9b7518324/)**
-- 📸 Instagram: **@christonowhere**
+- ✦ Email: **christopherwilsonjust@gmail.com**
+- ✦ LinkedIn: **[Christopher Wilson](https://www.linkedin.com/in/christopher-wilson-9b7518324/)**
+- ✦ Instagram: **@christonowhere**
 
 ---
 
