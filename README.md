@@ -25,8 +25,6 @@
 
 ## ✦ Tech Stack
 
-## ✦ Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -65,18 +63,18 @@
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christeoverywhere&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christeoverywhere&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=444444&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Christoeverywhere&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christoeverywhere&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=444444&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Christeoverywhere&theme=dark&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border=444444" />
+  <img src="https://streak-stats.demolab.com?user=Christoeverywhere&theme=dark&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border=444444" />
 </p>
 ---
 
 ## ✦ Contribution Graph
 
-[![Christopher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christeoverywhere&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=false)](https://github.com/Christeoverywhere)
+[![Christopher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christoeverywhere&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=false)](https://github.com/Christoeverywhere)
 ---
 
 ## ✦ Connect With Me
