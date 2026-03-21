@@ -63,11 +63,11 @@
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christoeverywhere&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=444444&hide_border=false" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Christeoverywhere&theme=dark&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border=444444" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Christoeverywhere&theme=dark&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border=444444" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christeoverywhere&theme=github_dark" />
 </p>
 
 ---
