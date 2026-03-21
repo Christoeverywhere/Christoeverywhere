@@ -64,19 +64,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christeoverywhere&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christeoverywhere&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Christoeverywhere&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christoeverywhere&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Christeoverywhere&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Christoeverywhere&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Christopher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christeoverywhere&theme=tokyo-night&hide_border=true)](https://github.com/Christeoverywhere)
+[![Christopher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christoeverywhere&theme=tokyo-night&hide_border=true)](https://github.com/Christoeverywhere)
 ---
 
 ## 🌐 Connect With Me
