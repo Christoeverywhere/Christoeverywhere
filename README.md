@@ -50,30 +50,31 @@
 
 ## ✦ Featured Projects
 
-- ⚙️ **RADIX Engine** — A workflow engine designed to automate end-to-end task pipelines, from raw data ingestion and wrangling to cleaning, processing, and structured output generation.
+- ✦ **RADIX Engine** — A workflow engine designed to automate end-to-end task pipelines, from raw data ingestion and wrangling to cleaning, processing, and structured output generation.
 
-- ⚽ **Women’s Football Data Analysis** — A full data analytics pipeline covering data scraping, collection, cleaning, transformation, and analysis to uncover meaningful insights from women’s football datasets.
+- ✦ **Women’s Football Data Analysis** — A full data analytics pipeline covering data scraping, collection, cleaning, transformation, and analysis to uncover meaningful insights from women’s football datasets.
 
-- 🛡️ **Guardian Eye** — A Python-based women’s safety project focused on building a practical model/system aimed at safety awareness, monitoring, and protection-oriented use cases.
+- ✦ **Guardian Eye** — A Python-based women’s safety project focused on building a practical model/system aimed at safety awareness, monitoring, and protection-oriented use cases.
 
-- 🐍 **Python Learning & Experimentation** — A collection of hands-on notebooks and mini-projects covering NumPy, regex, JSON, and practical programming fundamentals.
+- ✦ **Python Learning & Experimentation** — A collection of hands-on notebooks and mini-projects covering NumPy, regex, JSON, and practical programming fundamentals.
 
 ---
 
 ## ✦ GitHub Stats
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christoeverywhere&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=444444&hide_border=false" height="165" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Christoeverywhere&theme=dark&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border=444444" />
 </p>
+
 ---
 
 ## ✦ Contribution Graph
 
 [![Christopher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christoeverywhere&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=false)](https://github.com/Christoeverywhere)
----
 
 ## ✦ Connect With Me
 
