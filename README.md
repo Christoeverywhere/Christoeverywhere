@@ -2,7 +2,7 @@
   <img src="./compbanner.jpg" alt="Christopher GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Christopher 👋</h1>
+<h1 align="center">Hi, I'm Christopher </h1>
 <h3 align="center">CSE Student • Data Analytics • Python • Testing • Building Practical Projects</h3>
 
 <p align="center">
@@ -48,8 +48,6 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
 
 ## 📌 Featured Projects
 
