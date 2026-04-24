@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <code>CSE STUDENT • AGENTIC AI • AUTOMATION • DATA ANALYTICS • BUILDING PRACTICAL SYSTEMS</code>
+  <b>CSE STUDENT • AGENTIC AI • AUTOMATION • DATA ANALYTICS • BUILDING EMBEDDED SYSTEMS</b>
 </p>
 
 <p align="center">
   <sub>Computer Science & Engineering student focused on <b>agentic AI systems, automation workflows, and practical software engineering</b>.</sub><br>
   <sub>I build projects in <b>AI agents, workflow orchestration, validation systems, data analytics, testing, and real-world software pipelines</b>.</sub><br>
-  <sub>Currently exploring <b>agentic automation, LLM-powered systems, structured validation pipelines, and embedded Linux/RISC-V systems</b>.</sub>
+  <sub>Currently exploring <b>agentic automation, LLM-powered systems, structured validation pipelines, and embedded Linux/RISC-V systems and blockchain security</b>.</sub>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 - ▶ Python testing, validation gates, and reliable workflow design
 - ▶ Embedded systems projects with Debian Linux and RISC-V
 - ▶ DBMS concepts, SQL queries, triggers, cursors, and exception handling
-- ▶ Practical mini-projects in Java, C++, Python, and system-level experimentation
+- ▶ BlockChain Security with Wifi Modules
 
 <p align="center">
   <img src="./divider.svg" width="100%" />
@@ -64,6 +64,9 @@
   <img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logoColor=00F5FF&labelColor=0a0014" />
   <img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logoColor=FF00FF&labelColor=0a0014" />
   <img src="https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&logoColor=FF9F1C&labelColor=0a0014" />
+  <img src="https://img.shields.io/badge/ArduinoIDE-0d1117?style=for-the-badge&logoColor=FF9F1C&labelColor=0a0014" />
+  <img src="https://img.shields.io/badge/ESPmodule-0d1117?style=for-the-badge&logoColor=FF9F1C&labelColor=0a0014" />
+
 </p>
 
 <p align="center">
