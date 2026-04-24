@@ -1,0 +1,97 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090014"/>
+      <stop offset="1" stop-color="#12001f"/>
+    </linearGradient>
+
+    <filter id="glowPinkStrong" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur1"/>
+      <feColorMatrix in="blur1" type="matrix" values="
+        1 0 0 0 0
+        0 0 0 0 0
+        0 0 1 0 0
+        0 0 0 1 0" result="pinkish"/>
+      <feMerge>
+        <feMergeNode in="pinkish"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowPinkSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur3"/>
+      <feMerge>
+        <feMergeNode in="blur3"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="4" fill="rgba(255,255,255,0.02)"/>
+      <rect y="4" width="8" height="4" fill="rgba(0,0,0,0)"/>
+    </pattern>
+
+    <style>
+      .title {
+        font-family: 'Courier New', monospace;
+        font-size: 64px;
+        font-weight: 700;
+        letter-spacing: 10px;
+        fill: #ffffff;
+      }
+      .subtitle {
+        font-family: 'Courier New', monospace;
+        font-size: 20px;
+        font-weight: 700;
+        letter-spacing: 5px;
+        fill: #00F5FF;
+      }
+      .subtext {
+        font-family: 'Courier New', monospace;
+        font-size: 16px;
+        fill: #D9B3FF;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" rx="18" fill="url(#bgGrad)"/>
+
+  <!-- Scanline overlay -->
+  <rect width="1200" height="260" rx="18" fill="url(#scanlines)" opacity="0.35"/>
+
+  <!-- Top neon border -->
+  <line x1="40" y1="28" x2="1160" y2="28" stroke="#1A002A" stroke-width="2"/>
+  <line x1="40" y1="28" x2="1160" y2="28" stroke="#FF00FF" stroke-width="1.2" opacity="0.75"/>
+
+  <!-- Bottom neon border -->
+  <line x1="40" y1="232" x2="1160" y2="232" stroke="#1A002A" stroke-width="2"/>
+  <line x1="40" y1="232" x2="1160" y2="232" stroke="#00F5FF" stroke-width="1.2" opacity="0.75"/>
+
+  <!-- Tiny accent dots -->
+  <circle cx="110" cy="55" r="2.2" fill="#FF9F1C" opacity="0.8"/>
+  <circle cx="1090" cy="55" r="2.2" fill="#FF9F1C" opacity="0.8"/>
+
+  <!-- Main title glow layers -->
+  <text x="600" y="102" text-anchor="middle" class="title" fill="#FF00FF" opacity="0.30" filter="url(#glowPinkStrong)">CHRISTOPHER</text>
+  <text x="600" y="102" text-anchor="middle" class="title" fill="#FF66FF" opacity="0.55" filter="url(#glowPinkSoft)">CHRISTOPHER</text>
+  <text x="600" y="102" text-anchor="middle" class="title">CHRISTOPHER</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="145" text-anchor="middle" class="subtitle" filter="url(#glowCyan)">
+    CSE • AI AGENTIC SYSTEMS • DATA ANALYTICS • PYTHON
+  </text>
+
+  <!-- Optional micro line -->
+  <text x="600" y="182" text-anchor="middle" class="subtext">
+     • Stuff • 
+  </text>
+</svg>
