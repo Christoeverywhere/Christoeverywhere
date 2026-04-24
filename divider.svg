@@ -1,0 +1,42 @@
+<svg width="1200" height="48" viewBox="0 0 1200 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="pinkGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="cyanGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Left line -->
+  <line x1="60" y1="24" x2="510" y2="24" stroke="#3A0A55" stroke-width="2"/>
+  <line x1="60" y1="24" x2="510" y2="24" stroke="#7A1FA2" stroke-width="1" opacity="0.75"/>
+
+  <!-- Right line -->
+  <line x1="690" y1="24" x2="1140" y2="24" stroke="#3A0A55" stroke-width="2"/>
+  <line x1="690" y1="24" x2="1140" y2="24" stroke="#7A1FA2" stroke-width="1" opacity="0.75"/>
+
+  <!-- Left small dash -->
+  <line x1="525" y1="24" x2="540" y2="24" stroke="#FF00FF" stroke-width="2" filter="url(#pinkGlow)"/>
+
+  <!-- Center dot -->
+  <circle cx="600" cy="24" r="4" fill="#FF00FF" filter="url(#pinkGlow)"/>
+
+  <!-- Right small dash -->
+  <line x1="660" y1="24" x2="675" y2="24" stroke="#FF00FF" stroke-width="2" filter="url(#pinkGlow)"/>
+
+  <!-- Left diamond -->
+  <polygon points="560,24 575,14 590,24 575,34" fill="none" stroke="#FF00FF" stroke-width="2" filter="url(#pinkGlow)"/>
+
+  <!-- Right diamond -->
+  <polygon points="610,24 625,14 640,24 625,34" fill="none" stroke="#00F5FF" stroke-width="2" filter="url(#cyanGlow)"/>
+</svg>
