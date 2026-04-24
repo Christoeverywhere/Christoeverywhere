@@ -11,13 +11,9 @@
 </p>
 
 <p align="center">
-  <sub>
-    <code>
-      Computer Science & Engineering student focused on agentic AI systems, automation workflows, and practical software engineering.<br>
-      I build projects in AI agents, workflow orchestration, validation systems, data analytics, testing, and real-world software pipelines.<br>
-      Currently exploring agentic automation, LLM-powered systems, structured validation pipelines, and embedded Linux/RISC-V systems.
-    </code>
-  </sub>
+  <sub>Computer Science & Engineering student focused on <b>agentic AI systems, automation workflows, and practical software engineering</b>.</sub><br>
+  <sub>I build projects in <b>AI agents, workflow orchestration, validation systems, data analytics, testing, and real-world software pipelines</b>.</sub><br>
+  <sub>Currently exploring <b>agentic automation, LLM-powered systems, structured validation pipelines, and embedded Linux/RISC-V systems</b>.</sub>
 </p>
 
 <p align="center">
@@ -147,5 +143,5 @@ A collection of hands-on notebooks and mini-projects covering NumPy, regex, JSON
 </p>
 
 <p align="center">
-  <code>// BUILDING AGENTIC SYSTEMS • EXPLORING LOW-LEVEL COMPUTING • TURNING CURIOSITY INTO PRACTICAL PROJECTS //</code>
+  <sub><b>BUILDING AGENTIC SYSTEMS • EXPLORING EMBEDDED SYSTEMS • TURNING CURIOSITY INTO PRACTICAL PROJECTS</b></sub>
 </p>
